@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 🤖 👋
+
+I am very interested in Artificial intelligence especially applied Machine Learning 
+- 🔭 I’m currently working on teaching the machine how to learn 😅
+- 🌱 I’m currently learning how to learn 🤓
+- 👯 I’m looking to collaborate on Machine learning projects
+- 📫 How to reach me: [@Otman_el_bourki](https://twitter.com/Otman_el_bourki)
+----------------------------------------------------------------------------
+![Elbourki's github stats](https://github-readme-stats.vercel.app/api?username=elbourki1&show_icons=true&theme=dark)
 
 <!--
 **elbourki1/elbourki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
