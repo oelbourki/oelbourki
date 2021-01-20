@@ -4,7 +4,7 @@ I am very interested in Artificial intelligence especially applied Machine Learn
 - 🔭 I’m currently working on teaching the machine how to learn 😅
 - 🌱 I’m currently learning how to learn 🤓
 - 👯 I’m looking to collaborate on Machine learning projects
-- 📫 How to reach me: [@Otman_el_bourki](https://twitter.com/Otman_el_bourki)
+- 📫 How to reach me: [@oelbourki](https://twitter.com/oelbourki)
 ----------------------------------------------------------------------------
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=oel-bour)](https://github.com/mohouyizme/1337-readme)
