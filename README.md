@@ -6,7 +6,8 @@ I am very interested in Artificial intelligence especially applied Machine Learn
 - 👯 I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me: [@Otman_el_bourki](https://twitter.com/Otman_el_bourki)
 ----------------------------------------------------------------------------
-![Elbourki's github stats](https://github-readme-stats.vercel.app/api?username=elbourki1&show_icons=true&theme=dark)
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=oel-bour)](https://github.com/mohouyizme/1337-readme)
 
 <!--
 **elbourki1/elbourki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
