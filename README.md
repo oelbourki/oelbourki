@@ -9,12 +9,13 @@ I am very interested in Artificial intelligence especially applied Machine Learn
 <a href="https://github.com/oelbourki?tab=repositories">
   <img align="center" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=oel-bour"/>
  </a>
+ <a href="https://github.com/oelbourki?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&line_height=40&show_icons=true&theme=dark">
+</a>
 <a href="https://github.com/oelbourki?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelbourki&theme=dark"/>
 </a>
-<a href="https://github.com/oelbourki?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&line_height=40&show_icons=true&theme=dark">
-</a>
+
 
 <!--
 **elbourki1/elbourki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
