@@ -6,8 +6,9 @@ I am very interested in Artificial intelligence especially applied Machine Learn
 - 👯 I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me: [@oelbourki](https://twitter.com/oelbourki)
 ----------------------------------------------------------------------------
-
+<a href="https://github.com/oelbourki?tab=repositories">
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=oel-bour)](https://github.com/mohouyizme/1337-readme)
+ </a>
 <a href="https://github.com/oelbourki?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelbourki&theme=dark"/>
 </a>
