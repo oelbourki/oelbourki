@@ -3,7 +3,7 @@
 I am very interested in Artificial intelligence especially applied Machine Learning 
 - 🔭 I’m currently working on teaching the machine how to learn 😅
 - 🌱 I’m currently learning how to learn 🤓
-- 👯 I’m looking to collaborate on Machine learning projects
+- 🧐 I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me: [@oelbourki](https://twitter.com/oelbourki)
 ----------------------------------------------------------------------------
  <a href="https://github.com/oelbourki?tab=repositories">
