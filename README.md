@@ -7,10 +7,10 @@ I am very interested in Artificial intelligence especially applied Machine Learn
 - 📫 How to reach me: [@oelbourki](https://twitter.com/oelbourki)
 ----------------------------------------------------------------------------
  <a href="https://github.com/oelbourki?tab=repositories">
- <img align="center" src="https://badge.mediaplus.ma/kettlebells/oel-bour)](https://github.com/oakoudad/badge42">
+ <img align="center" src="https://badge.mediaplus.ma/kettlebells/oel-bour">
 
 </a>
-<!-- [![oel-bour's 42 stats](https://badge.mediaplus.ma/kettlebells/oel-bour)](https://github.com/oakoudad/badge42) -->
+[![oel-bour's 42 stats](https://badge.mediaplus.ma/kettlebells/oel-bour)](https://github.com/oakoudad/badge42)
  <a href="https://github.com/oelbourki?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&line_height=40&show_icons=true&theme=dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelbourki&theme=dark"/>
