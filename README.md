@@ -20,8 +20,10 @@ I am a machine learnig engineer.
 * ✉️  You can contact me at [elbourki.1999@gmail.com](mailto:elbourki.1999@gmail.com)
 * 👨‍💻  You can find my protfolio [oelbourki.software](https://www.oelbourki.software/)
 * 🤝  I'm open to collaborating on interesting projects
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+* 
+
 <h3 align="left">Connect with me:</h3>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <p align="left">
 <a href="https://twitter.com/oelbourki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oelbourki" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oelbourki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oelbourki" height="30" width="40" /></a>
