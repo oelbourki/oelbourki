@@ -23,7 +23,8 @@ I am a machine learnig engineer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white);
+ ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
+ ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <a href="https://twitter.com/oelbourki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oelbourki" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/oelbourki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oelbourki" height="30" width="40" /></a>
 <a href="https://kaggle.com/oelbourki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="oelbourki" height="30" width="40" /></a>
