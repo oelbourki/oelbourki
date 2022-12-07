@@ -10,17 +10,14 @@ I am very interested in Artificial intelligence especially applied Machine Learn
  <img align="center" src="https://badge.mediaplus.ma/kettlebells/oel-bour">
 
 -->
-
+### Hi there 🤖 👋
 ![LinkedIn Banner](https://user-images.githubusercontent.com/35746794/206181872-f6890e01-6599-4760-be68-9f29bdd6db23.png)
 
-
-I am a machine learnig engineer.
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [elbourki.1999@gmail.com](mailto:elbourki.1999@gmail.com)
 * 👨‍💻  You can find my protfolio [oelbourki.software](https://www.oelbourki.software/)
 * 🤝  I'm open to collaborating on interesting projects
-* 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ### &nbsp;Connect with me:
