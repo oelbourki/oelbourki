@@ -21,7 +21,7 @@ I am a machine learnig engineer.
 * 👨‍💻  You can find my protfolio [oelbourki.software](https://www.oelbourki.software/)
 * 🤝  I'm open to collaborating on interesting projects
 * 
-
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <h3 align="left">Connect with me:</h3>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <p align="left">
