@@ -9,13 +9,7 @@ I am very interested in Artificial intelligence especially applied Machine Learn
  <a href="https://github.com/oelbourki?tab=repositories">
  <img align="center" src="https://badge.mediaplus.ma/kettlebells/oel-bour">
 
-</a>
-<!-- [![oel-bour's 42 stats](https://badge.mediaplus.ma/kettlebells/oel-bour)](https://github.com/oakoudad/badge42) -->
- <a href="https://github.com/oelbourki?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&line_height=40&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelbourki&theme=dark"/>
-</a>
- -->
+-->
 
 ![LinkedIn Banner](https://user-images.githubusercontent.com/35746794/206181872-f6890e01-6599-4760-be68-9f29bdd6db23.png)
 
@@ -43,3 +37,4 @@ I am a machine learnig engineer.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&show_icons=true&locale=en" alt="oelbourki" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&line_height=40&show_icons=true&theme=dark">
+[![oel-bour's 42 stats](https://badge.mediaplus.ma/kettlebells/oel-bour)](https://github.com/oakoudad/badge42)
