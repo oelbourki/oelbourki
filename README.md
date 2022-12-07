@@ -37,4 +37,3 @@ I am a machine learnig engineer.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&show_icons=true&locale=en" alt="oelbourki" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&line_height=40&show_icons=true&theme=dark">
-[![oel-bour's 42 stats](https://badge.mediaplus.ma/kettlebells/oel-bour)](https://github.com/oakoudad/badge42)
