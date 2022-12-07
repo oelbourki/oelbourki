@@ -20,7 +20,7 @@ I am a machine learnig engineer.
 * ✉️  You can contact me at [elbourki.1999@gmail.com](mailto:elbourki.1999@gmail.com)
 * 👨‍💻  You can find my protfolio [oelbourki.software](https://www.oelbourki.software/)
 * 🤝  I'm open to collaborating on interesting projects
-
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oelbourki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oelbourki" height="30" width="40" /></a>
@@ -31,6 +31,7 @@ I am a machine learnig engineer.
 <a href="https://www.leetcode.com/oelbourki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oelbourki" height="30" width="40" /></a>
 <a href="https://discord.gg/4063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4063" height="30" width="40" /></a>
 </p>
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 <h3 align="left">Languages and Tools:</h3>
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
