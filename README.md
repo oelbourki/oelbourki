@@ -15,7 +15,7 @@ I am very interested in Artificial intelligence especially applied Machine Learn
 
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [elbourki.1999@gmail.com](mailto:elbourki.1999@gmail.com)
+* ✉️  You can contact me at [otmane.elbourki@gmail.com](mailto:otmane.elbourki@gmail.com)
 * 👨‍💻  You can find my protfolio [oelbourki.software](https://www.oelbourki.software/)
 * 🤝  I'm open to collaborating on interesting projects
 
