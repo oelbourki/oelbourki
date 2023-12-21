@@ -11,8 +11,7 @@ I am very interested in Artificial intelligence especially applied Machine Learn
 
 -->
 ### Hi there 🤖 👋
-![LinkedIn Banner](https://user-images.githubusercontent.com/35746794/206181872-f6890e01-6599-4760-be68-9f29bdd6db23.png)
-
+![LinkedIn Banner2024](https://github.com/oelbourki/oelbourki/assets/35746794/47aaac88-ba42-415b-b55d-f01112a0d4af)
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [otmane.elbourki@gmail.com](mailto:otmane.elbourki@gmail.com)
