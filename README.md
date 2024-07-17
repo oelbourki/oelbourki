@@ -7,9 +7,11 @@
 
 <h3 align="center">I craft scalable AI solutions across diverse domains, leveraging cutting-edge technologies. Currently, I am focused on optimizing AI-driven applications and leading AI education initiatives.</h3>
 
+ <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oelbourki&label=Profile%20views&color=0e75b6&style=flat" alt="oelbourki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oelbourki" alt="oelbourki" /></a> </p>
+-->
 
  - 🔭 I’m currently working on advancing AI models for enhanced chatbot interactions.
 - 🌱 I’m currently learning how to optimize deep learning models for scalability.
