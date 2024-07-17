@@ -1,6 +1,7 @@
 ### Hi there 🤖 👋
 <h1 align="center">Hi 👋, I'm Otmane El Bourki</h1>
-![LinkedIn Banner2024](https://github.com/user-attachments/assets/6e2a2cc5-b50a-4d60-a15a-8d1d78399237)
+![linkedin-banner-15d](https://github.com/user-attachments/assets/6e2a2cc5-b50a-4d60-a15a-8d1d78399237)
+
 <h3 align="center">I craft scalable AI solutions across diverse domains, leveraging cutting-edge technologies. Currently, I am focused on optimizing AI-driven applications and leading AI education initiatives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oelbourki&label=Profile%20views&color=0e75b6&style=flat" alt="oelbourki" /> </p>
