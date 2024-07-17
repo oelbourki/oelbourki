@@ -1,7 +1,8 @@
 ### Hi there 🤖 👋
 <h1 align="center">Hi 👋, I'm Otmane El Bourki</h1>
 
-![LinkedIn Banner](https://user-images.githubusercontent.com/35746794/206181872-f6890e01-6599-4760-be68-9f29bdd6db23.png)
+
+![linkedin-banner-15d](https://github.com/user-attachments/assets/6e2a2cc5-b50a-4d60-a15a-8d1d78399237)
 
 
 <h3 align="center">I craft scalable AI solutions across diverse domains, leveraging cutting-edge technologies. Currently, I am focused on optimizing AI-driven applications and leading AI education initiatives.</h3>
