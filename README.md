@@ -122,9 +122,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oelbourki&show_icons=true&locale=en&layout=compact" alt="oelbourki" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oelbourki&show_icons=true&locale=en" alt="oelbourki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oelbourki&" alt="oelbourki" /></p>
 
