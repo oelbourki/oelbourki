@@ -69,12 +69,12 @@
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> 
   </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a> 
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> 
-  </a>
+  </a> -->
 </p>
 
 #### Databases:
@@ -88,9 +88,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://redis.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a>
+  </a> -->
 </p>
 
 #### Machine Learning and Data Science:
