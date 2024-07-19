@@ -16,7 +16,7 @@
  - 🔭 I’m currently working on advancing AI models for enhanced chatbot interactions.
 - 🌱 I’m currently learning how to optimize deep learning models for scalability.
 - 👨‍💻 I'm proficient in Python, TensorFlow, PyTorch, and scikit-learn.
-- 🧠 I specialize in natural language processing (NLP) and deep learning architectures.
+- 🧠 I specialize in natural language processing (NLP), Generative AI, and deep learning architectures.
 - 👨‍💻  You can find my portfolio [oelbourki.site](https://www.oelbourki.site/)
 - 📫 You can reach me at [otmane.elbourki@gmail.com](mailto:otmane.elbourki@gmail.com).
 
