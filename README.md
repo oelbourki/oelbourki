@@ -120,6 +120,7 @@
     <img src="https://camo.githubusercontent.com/169ee2707b0d249c11e60fe6fc14902ff3944268861ab545b987c9cca482fa0c/68747470733a2f2f7777772e6372657761692e636f6d2f6173736574732f637265775f6f6e6c792d636533653865316166646530393737636165616138363161616237326631636665653363383861373931323764366532626561386439623230363666356562312e706e67" height="30px" alt="CrewAI" data-canonical-src="https://www.crewai.com/assets/crew_only-ce3e8e1afde0977caeaa861aab72f1cfee3c88a79127d6e2bea8d9b2066f5eb1.png" style="max-width: 100%;">
   </a>
 </p>
+
 #### Other Tools:
 <p align="left"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
