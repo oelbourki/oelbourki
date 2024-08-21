@@ -95,7 +95,7 @@
 
 #### Machine Learning and Data Science:
 <p align="left"> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
@@ -106,7 +106,7 @@
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
+  </a> -->
   <a href="https://skillicons.dev" rel="nofollow">
     <img src="https://camo.githubusercontent.com/d9d39a374847d0f3f7053908e28496f4624293e02fe193617623334d4ec21f13/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74656e736f72666c6f772c7079746f726368" alt="tensorflow, pytorch" data-canonical-src="https://skillicons.dev/icons?i=tensorflow,pytorch" style="max-width: 100%;">
     <img src="https://camo.githubusercontent.com/43f0cfa894f8c90f2c252190d2c997abbd4a71676ecb0746cf62bd80f6f76018/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f532f7363696b69742d6c6561726e2d6c6f676f2d383736364430374532452d7365656b6c6f676f2e636f6d2e706e67" height="45px" alt="sklearn" data-canonical-src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" style="max-width: 100%;">
