@@ -75,12 +75,12 @@
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> 
   </a> -->
-</p>
+<!-- </p>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,circleci" />
   </a>
-</p>
+</p> -->
 #### Databases:
 <p align="left"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
