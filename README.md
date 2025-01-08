@@ -5,7 +5,7 @@
 ![linkedin-banner-15d](https://github.com/user-attachments/assets/6e2a2cc5-b50a-4d60-a15a-8d1d78399237)
 
 
-<h3 align="center">I craft scalable AI solutions across diverse domains, leveraging cutting-edge technologies. Currently, I am focused on optimizing AI-driven applications and leading AI education initiatives.</h3>
+<h3 align="center">I am passionate about creating scalable AI solutions across various domains, utilizing cutting-edge technologies. I am committed to continuous learning and staying updated with the latest advancements in the AI field.</h3>
 
  <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oelbourki&label=Profile%20views&color=0e75b6&style=flat" alt="oelbourki" /> </p>
