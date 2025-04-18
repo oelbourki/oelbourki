@@ -129,7 +129,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch" />
   </a>
-  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" height="45px" alt="Scikit-learn" />
+  <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.svg" height="45px" alt="Scikit-learn" />
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" height="45px" alt="Hugging Face" />
   <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/by5xgptikfgqgx2tma7o" height="45px" alt="LangChain" />
 <!--   <img src="https://www.crewai.com/assets/crew_only-ce3e8e1afde0977caeaa861aab72f1cfee3c88a79127d6e2bea8d9b2066f5eb1.png" height="30px" alt="CrewAI" /> -->
