@@ -56,7 +56,7 @@
 
 ### Generative AI & Agent Frameworks
 <p align="left">
-  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/img/logo-dark.svg" width="40" height="40" title="LangChain" />
+  <img src="https://images.seeklogo.com/logo-png/61/1/langchain-icon-logo-png_seeklogo-611655.png" width="40" height="40" title="LangChain" />
   <img src="https://ray-project.github.io/assets/ray-icon.svg" width="40" height="40" title="Ray" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Transformer_architecture.svg" width="40" height="40" title="Transformers" />
 </p>
