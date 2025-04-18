@@ -50,7 +50,7 @@
   <img src="https://cdn.simpleicons.org/dvc/gray" width="40" height="40" title="DVC" />
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/mlflow-icon.png" width="40" height="40" title="MLflow" />
   <img src="https://prometheus.io/assets/prometheus_logo_grey.svg" width="40" height="40" title="Prometheus" />
-  <img src="https://freepngimg.com/thumb/grafana/4157-grafana-icon.png" width="40" height="40" title="Grafana" />
+  <img src="https://commons.wikimedia.org/wiki/File:Grafana_logo.svg" width="40" height="40" title="Grafana" />
   <img src="https://logo.svgcdn.com/l/opentelemetry-icon.png" width="40" height="40" title="OpenTelemetry" />
 </p>
 
