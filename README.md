@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 What I’m Doing Now
+## 🎯 What I'm Doing Now
 
 - 🔭 Building **autonomous LLM agents** and **multi-agent workflows** with LangChain, Langgraph, FAISS, and Ray.
 - 💡 Deploying **low‑latency inference** at scale using Triton Inference Server & Ray Serve.
@@ -63,10 +63,17 @@
 
 ### Vector Databases & Retrieval
 <p align="left">
-  <img src="https://seeklogo.com/images/Q/qdrant-icon-logo-497960E7F3-seeklogo.com.png" width="40" height="40" title="Qdrant" />
-  <img src="https://seeklogo.com/images/P/pinecone-icon-logo-482365D5F3-seeklogo.com.png" width="40" height="40" title="Pinecone" />
-  <img src="https://seeklogo.com/images/W/weaviate-logo-351678D5F3-seeklogo.com.png" width="40" height="40" title="Weaviate" />
-  
+  <img src="https://raw.githubusercontent.com/qdrant/qdrant/refs/heads/master/docs/logo.svg" width="40" height="40" title="Qdrant" />
+  <img src="https://static.cdnlogo.com/logos/p/46/pinecone.svg" width="40" height="40" title="Pinecone" />
+  <img src="https://static.cdnlogo.com/logos/w/39/weaviate.svg" width="40" height="40" title="Weaviate" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" title="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" />
 </p>
 
 ### Machine Learning Frameworks
