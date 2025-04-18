@@ -20,11 +20,11 @@
 - 💡 Deploying **low‑latency inference** at scale using Triton Inference Server & Ray Serve.
 - 📈 Implementing end‑to‑end **MLOps pipelines** with DVC, MLflow, GitHub Actions, and Kubernetes.
 
-## 🌱 Currently Learning
+<!-- ## 🌱 Currently Learning
 
 - Scaling large‑language‑model fine‑tuning with DeepSpeed & bitsandbytes.
 - Advanced retrieval‑augmented generation (RAG) using Weaviate & Pinecone.
-- Observability for ML: Prometheus + Grafana + OpenTelemetry.
+- Observability for ML: Prometheus + Grafana + OpenTelemetry. -->
 
 ## 🛠️ Core Skills & Tech Stack
 
