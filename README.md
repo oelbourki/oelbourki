@@ -63,8 +63,10 @@
 
 ### Vector Databases & Retrieval
 <p align="left">
-  <img src="https://www.pinecone.io/static/images/Pinecone_Icon_White.svg" width="40" height="40" title="Pinecone" />
-  <img src="https://weaviate.io/img/weaviate-logo.svg" width="40" height="40" title="Weaviate" />
+  <img src="https://seeklogo.com/images/Q/qdrant-icon-logo-497960E7F3-seeklogo.com.png" width="40" height="40" title="Qdrant" />
+  <img src="https://seeklogo.com/images/P/pinecone-icon-logo-482365D5F3-seeklogo.com.png" width="40" height="40" title="Pinecone" />
+  <img src="https://seeklogo.com/images/W/weaviate-logo-351678D5F3-seeklogo.com.png" width="40" height="40" title="Weaviate" />
+  
 </p>
 
 ### Machine Learning Frameworks
