@@ -58,7 +58,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/refs/heads/master/docs/static/img/logo-dark.svg" width="40" height="40" title="LangChain" />
   <img src="https://raw.githubusercontent.com/ray-project/ray/a9f8dc8c199a4ec73300816be79329f42673364a/doc/source/_static/img/ray_logo.svg" width="40" height="40" title="Ray" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Transformer_architecture.svg" width="40" height="40" title="Transformers" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" title="Transformers" />
 </p>
 
 ### Vector Databases & Retrieval
