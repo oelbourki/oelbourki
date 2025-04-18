@@ -16,7 +16,7 @@
 
 ## 🎯 What I’m Doing Now
 
-- 🔭 Building **autonomous LLM agents** and **multi-agent workflows** with LangChain, FAISS, and Ray.
+- 🔭 Building **autonomous LLM agents** and **multi-agent workflows** with LangChain, Langgraph, FAISS, and Ray.
 - 💡 Deploying **low‑latency inference** at scale using Triton Inference Server & Ray Serve.
 - 📈 Implementing end‑to‑end **MLOps pipelines** with DVC, MLflow, GitHub Actions, and Kubernetes.
 
