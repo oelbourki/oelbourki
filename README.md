@@ -47,11 +47,11 @@
 
 ### MLOps & Observability
 <p align="left">
-  <img src="https://raw.githubusercontent.com/iterative/dvc/master/static/logo-light-bg.svg" width="40" height="40" title="DVC" />
-  <img src="https://mlflow.org/docs/latest/_static/mlflow-logo.svg" width="40" height="40" title="MLflow" />
+  <img src="https://cdn.simpleicons.org/dvc/gray" width="40" height="40" title="DVC" />
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/mlflow-icon.png" width="40" height="40" title="MLflow" />
   <img src="https://prometheus.io/assets/prometheus_logo_grey.svg" width="40" height="40" title="Prometheus" />
-  <img src="https://grafana.com/static/img/menu/nav-icon.svg" width="40" height="40" title="Grafana" />
-  <img src="https://opentelemetry.io/assets/otel-icon-color.svg" width="40" height="40" title="OpenTelemetry" />
+  <img src="https://freepngimg.com/thumb/grafana/4157-grafana-icon.png" width="40" height="40" title="Grafana" />
+  <img src="https://logo.svgcdn.com/l/opentelemetry-icon.png" width="40" height="40" title="OpenTelemetry" />
 </p>
 
 ### Generative AI & Agent Frameworks
