@@ -68,7 +68,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oelbourki)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <a href="https://github.com/oelbourki">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oelbourki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
