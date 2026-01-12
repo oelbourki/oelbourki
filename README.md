@@ -77,7 +77,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=oelbourki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-[![Oelbourki's GitHub stats](https://github-readme-stats.vercel.app/api?username=oelbourki)](https://github.com/anuraghazra/github-readme-stats)
+![Oelbourki's GitHub stats](https://github-readme-stats.vercel.app/api?username=oelbourki)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🌱 Currently Learning
