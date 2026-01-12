@@ -1,89 +1,115 @@
 ![linkedin-banner-15d](https://github.com/user-attachments/assets/6e2a2cc5-b50a-4d60-a15a-8d1d78399237)
-<h1 align="center">👋 Hi, I'm Otmane El Bourki</h1>
 
-<p align="center">🔬 AI Engineer | Generative AI & LLM Agents Specialist | MLOps Enthusiast</p>
+<h1 align="center">👋 Hi, I'm Otmane El Bourki</h1>
 
-<h3 align="center">Passionate about architecting and deploying scalable AI solutions—from autonomous agents to production‑grade inference pipelines.</h3>
+<h3 align="center">Generative AI Engineer | Building LLM Agents, RAG Systems & Production AI Infrastructure</h3>
 
 <p align="center">
-  <a href="https://www.oelbourki.site" target="blank">Portfolio</a> •
-  <a href="mailto:otmane.elbourki@gmail.com" target="blank">Email</a> •
-  <a href="https://linkedin.com/in/oelbourki" target="blank">LinkedIn</a> •
-  <a href="https://github.com/oelbourki" target="blank">GitHub</a>
+  <a href="mailto:otmane.elbourki@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/oelbourki" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/oelbourki" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 What I'm Doing Now
+## 🔭 What I'm Working On
 
-- 🔭 Building **autonomous LLM agents** and **multi-agent workflows** with LangChain, Langgraph, FAISS, and Ray.
-- 💡 Deploying **low‑latency inference** at scale using Triton Inference Server & Ray Serve.
-- 📈 Implementing end‑to‑end **MLOps pipelines** with DVC, MLflow, GitHub Actions, and Kubernetes.
+- 🚀 Building **multi-agent AI systems** with LangGraph & CrewAI for enterprise automation
+- 🔍 Architecting **GraphRAG pipelines** combining Neo4j knowledge graphs with vector search
+- ⚡ Optimizing **LLM inference** with quantization, vLLM, and custom serving infrastructure
+- 🏗️ Deploying **production AI systems** on GCP/AWS with containerized microservices
 
-<!-- ## 🌱 Currently Learning
+---
 
-- Scaling large‑language‑model fine‑tuning with DeepSpeed & bitsandbytes.
-- Advanced retrieval‑augmented generation (RAG) using Weaviate & Pinecone.
-- Observability for ML: Prometheus + Grafana + OpenTelemetry. -->
+## 🛠️ Tech Stack
 
-## 🛠️ Core Skills & Tech Stack
+### LLMs & Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-00D9FF?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-FF6B35?style=flat-square)
 
-### Programming
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" title="Bash" />
-</p>
+### Model Optimization
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 ### Cloud & Infrastructure
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" title="GCP" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" title="Azure" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" title="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" title="Kubernetes" />
-</p>
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Data & Vector DBs
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6B6B?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 
 ### MLOps & Observability
-<p align="left">
-  <img src="https://cdn.simpleicons.org/dvc/gray" width="40" height="40" title="DVC" />
-  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/mlflow-icon.png" width="40" height="40" title="MLflow" />
-  <img src="https://prometheus.io/assets/prometheus_logo_grey.svg" width="40" height="40" title="Prometheus" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grafana-icon.png" width="40" height="40" title="Grafana" />
-  <img src="https://logo.svgcdn.com/l/opentelemetry-icon.png" width="40" height="40" title="OpenTelemetry" />
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oelbourki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelbourki&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
-### Generative AI & Agent Frameworks
-<p align="left">
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/refs/heads/master/docs/static/img/logo-dark.svg" width="40" height="40" title="LangChain" />
-  <img src="https://raw.githubusercontent.com/ray-project/ray/a9f8dc8c199a4ec73300816be79329f42673364a/doc/source/_static/img/ray_logo.svg" width="40" height="40" title="Ray" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" title="Transformers" />
-</p>
-
-### Vector Databases & Retrieval
-<p align="left">
-  <img src="https://raw.githubusercontent.com/qdrant/qdrant/refs/heads/master/docs/logo.svg" width="40" height="40" title="Qdrant" />
-  <img src="https://static.cdnlogo.com/logos/p/46/pinecone.svg" width="40" height="40" title="Pinecone" />
-  <img src="https://static.cdnlogo.com/logos/w/39/weaviate.svg" width="40" height="40" title="Weaviate" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40" height="40" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" title="Redis" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" />
-</p>
-
-### Machine Learning Frameworks
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" title="TensorFlow" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" title="PyTorch" />
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" width="40" height="40" title="scikit-learn" />
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" title="Hugging Face" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=oelbourki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center"><em>Committed to open-source, continuous learning, and sharing knowledge with the AI community.</em></p>
+## 🌱 Currently Learning
+
+- Advanced multi-agent orchestration patterns with LangGraph
+- GraphRAG optimization techniques for enterprise knowledge bases
+- LLM serving optimization (quantization, speculative decoding)
+- Production MLOps patterns for GenAI systems
+
+---
+
+## 🤝 Community & Open Source
+
+- **Founded** [1337AI](https://github.com/1337AI) - AI community and resources
+- **Mentor** at ThinkAI & HackAI hackathons
+- Always open to collaborating on interesting AI/ML projects
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email**: otmane.elbourki@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/oelbourki](https://linkedin.com/in/oelbourki)
+- 🐙 **GitHub**: [github.com/oelbourki](https://github.com/oelbourki)
+- 📍 **Location**: Paris, France
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oelbourki&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <em>Building the future of AI, one agent at a time 🤖</em>
+</p>
