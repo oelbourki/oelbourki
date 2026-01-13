@@ -89,13 +89,6 @@
 </a>
 </div>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=oelbourki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
----
-
 ## 🌱 Currently Learning
 
 - Advanced multi-agent orchestration patterns with LangGraph
