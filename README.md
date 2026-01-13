@@ -18,7 +18,7 @@
 
 ---
 
-## 🔭 What I'm Working Onn
+## 🔭 What I'm Working On
 
 - 🚀 Building **multi-agent AI systems** with LangGraph & CrewAI for enterprise automation
 - 🔍 Architecting **GraphRAG pipelines** combining Neo4j knowledge graphs with vector search
