@@ -12,6 +12,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+          fetch-depth: 0
 
       - name: Ensure output folder
         run: mkdir -p profile
@@ -52,6 +55,8 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}.git
+          git pull --rebase origin main || true
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
+          git diff --staged --quiet || git commit -m "Update README cards"
+          git push origin main
