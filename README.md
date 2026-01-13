@@ -68,7 +68,27 @@
 ---
 
 ## 📊 GitHub Stats
-  <a href="https://stats.hyo.dev"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=oelbourki" width="600" /></a>
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<br/>
 ---
 
 ## 🌱 Currently Learning
