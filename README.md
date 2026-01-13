@@ -68,27 +68,32 @@
 ---
 
 ## 📊 GitHub Stats
+
 <!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Rick Staa's Language stats" />
+<a href="https://github.com/oelbourki#gh-light-mode-only">
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Top Languages" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240  src="./profile/stats-light.svg#gh-light-mode-only" alt="Rick Staa's Github stats" />
+<a href="https://github.com/oelbourki#gh-light-mode-only">
+<img height=240 src="./profile/stats-light.svg#gh-light-mode-only" alt="GitHub Stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+<a href="https://github.com/oelbourki#gh-dark-mode-only">
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+<a href="https://github.com/oelbourki#gh-dark-mode-only">
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="GitHub Stats" />
 </a>
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=oelbourki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 
 ## 🌱 Currently Learning
