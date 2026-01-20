@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Otmane El Bourki</h1>
 
-<h3 align="center">Generative AI Engineer | Building LLM Agents, RAG Systems & Production AI Infrastructure</h3>
+<h3 align="center">AI Engineer | Building LLM Agents, RAG Systems & Production AI Infrastructure</h3>
 
 <p align="center">
   <a href="mailto:otmane.elbourki@gmail.com" target="blank">
