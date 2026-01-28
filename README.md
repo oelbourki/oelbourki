@@ -102,7 +102,7 @@
 
 ## 🤝 Community & Open Source
 
-- **Founded** [1337AI](https://github.com/1337AI) - AI community and resources
+- **Founded** [1337AI](https://github.com/1337-Artificial-Intelligence) - AI community and resources
 - **Mentor** at ThinkAI & HackAI hackathons
 - Always open to collaborating on interesting AI/ML projects
 
