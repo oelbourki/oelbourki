@@ -1,4 +1,5 @@
 ![linkedin-banner-15d](https://github.com/user-attachments/assets/6e2a2cc5-b50a-4d60-a15a-8d1d78399237)
+<img width="2000" height="600" alt="Blue Geometric Technology LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/80a40db7-d6fe-45f9-9390-b045711cb26e" />
 
 <h1 align="center">👋 Hi, I'm Otmane El Bourki</h1>
 
